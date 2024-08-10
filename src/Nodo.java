@@ -69,5 +69,6 @@ public class Nodo {
         System.out.println("Obtener el nodo 57:");
         System.out.println(nodo0.getUp().getCenter().getValue());
 
+
     }
 }
