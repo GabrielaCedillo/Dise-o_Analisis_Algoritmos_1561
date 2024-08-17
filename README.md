@@ -9,3 +9,5 @@ Solo es necesario, correr el programa.
 
 - `1`: IntelliJIDEA
 - `2`: Java 17
+<h1 align="center"> Tarea 2: </h1>
+Desarrollar un programa que dado un arreglo de numeros, imprima a la salida todas las posibles combinaciones de los elementos que contiene, tambien que imprima la cantidad de combinaciones realizadas.<br/>
