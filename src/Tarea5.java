@@ -31,7 +31,6 @@ public class Tarea5 {
             return -1;
         }
     }
-
     // BUSQUEDA BINARIA
     public static int busquedaBinaria(int[] lista, int dato, int inicio, int fin) {
         if (inicio > fin) {
