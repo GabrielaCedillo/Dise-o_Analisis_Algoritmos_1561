@@ -17,6 +17,7 @@ public class Main {
             arbol.insertar(alumno);
         }
 
+
         arbol.mostrarEnOrden();
 
         Scanner scanner = new Scanner(System.in);
